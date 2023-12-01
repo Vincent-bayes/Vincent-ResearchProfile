@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Research Profile - Your Name</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Your Name</h1>
+    <h2>PhD Researcher at Michigan State University</h2>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#research">Research</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>Introduce yourself here.</p>
+    </section>
+
+    <section id="research">
+      <h2>Research Focus</h2>
+      <p>Describe your research methodologies and findings.</p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>
+        <strong>Email:</strong> ogwenovi@msu.edu<br>
+        <strong>Phone:</strong> (123) 456-7890<br>
+        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/vincent-wayuga-514676a7/" target="_blank">LinkedIn Profile</a><br>
+        <strong>ORCID:</strong> <a href="https://orcid.org/0009-0001-4298-7558" target="_blank">ORCID Profile</a><br>
+        <strong>Facebook:</strong> <a href="https://www.facebook.com/vincent.wayugah" target="_blank">Facebook Profile</a>
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Your Name</p>
+  </footer>
+
+</body>
+</html>
